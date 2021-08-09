@@ -1,0 +1,567 @@
+,text,url,price,cpu_name,cpu_gen,cpu_brand,discount_value,store
+0,DELL G3 15-3500 Gaming Laptop - Intel Core I5 - 8GB RAM - 256GB SSD + 1TB HDD - 15.6-inch FHD - 4GB GPU - Ubuntu - Black,https://www.jumia.com.eg/g3-15-3500-gaming-laptop-intel-core-i5-8gb-ram-256gb-ssd-1tb-hdd-15.6-inch-fhd-4gb-gpu-ubuntu-black-dell-mpg759490.html,930,I5,5,Intel,18,Jumia (EG)
+1,Acer Nitro 5 Laptop - Intel Core I5 10TH - 8GB RAM - 256GB SSD - 15.6-inch FHD - 4GB GPU - Windows 10 - Black (English Keyboard),https://www.jumia.com.eg/nitro-5-laptop-intel-core-i5-10th-8gb-ram-256gb-ssd-15.6-inch-fhd-4gb-gpu-windows-10-black-english-keyboard-acer-mpg771777.html,870,I5,5,Intel,19,Jumia (EG)
+2,Lenovo Legion 5-15IMH05H Gaming Laptop - Intel Core I7-10750H - 16GB RAM - 1TB HDD + 512GB SSD - 15.6-inch FHD - 6GB GTX1660 Ti GPU - Windows 10 - Phantom Black (English Keyboard),https://www.jumia.com.eg/legion-5-15imh05h-gaming-laptop-intel-core-i7-10750h-16gb-ram-1tb-hdd-512gb-ssd-15.6-inch-fhd-6gb-gtx1660-ti-gpu-windows-10-phantom-black-english-keyboard-lenovo-mpg757584.html,1193,I7,7,Intel,20,Jumia (EG)
+3,DELL G5 15-5500 Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 4GB GPU - 15.6-inch FHD - Black,https://www.jumia.com.eg/dell-g5-15-5500-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-4gb-gpu-15.6-inch-fhd-black-21173886.html,1014,I7,7,Intel,16,Jumia (EG)
+4,Lenovo Legion 5-15IMH05 Gaming Laptop - Intel Core I7-10750H - 8GB RAM - 512GB SSD - 15.6-inch FHD - 4GB GTX 1650 Ti GPU - Windows 10 - Phantom Black (English Keyboard),https://www.jumia.com.eg/legion-5-15imh05-gaming-laptop-intel-core-i7-10750h-8gb-ram-512gb-ssd-15.6-inch-fhd-4gb-gtx-1650-ti-gpu-windows-10-phantom-black-english-keyboard-lenovo-mpg762977.html,1011,I7,7,Intel,11,Jumia (EG)
+5,Acer Nitro 5 Gaming Laptop - Intel Core I7 - 16GB RAM - 256GB SSD + 1TB HDD - 15.6-inch FHD - 4GB GPU - DOS - Obsidian Black,https://www.jumia.com.eg/nitro-5-gaming-laptop-intel-core-i7-16gb-ram-256gb-ssd-1tb-hdd-15.6-inch-fhd-4gb-gpu-dos-obsidian-black-acer-mpg758358.html,990,I7,7,Intel,18,Jumia (EG)
+6,MSI GF65 Thin 9SEXR Gaming Laptop - Intel Core I7 - 8GB RAM - 512GB SSD - 15.6-inch FHD - 6GB GPU - Windows 10 - Black,https://www.jumia.com.eg/gf65-thin-9sexr-gaming-laptop-intel-core-i7-8gb-ram-512gb-ssd-15.6-inch-fhd-6gb-gpu-windows-10-black-msi-mpg769018.html,1140,I7,7,Intel,24,Jumia (EG)
+7,DELL G5 15-5500 Gaming Laptop - Intel Core I7 - 16GB RAM - 1TB SSD - 15.6-inch FHD - 6GB GPU - Windows 10 - Black,https://www.jumia.com.eg/dell-g5-15-5500-gaming-laptop-intel-core-i7-16gb-ram-1tb-ssd-15.6-inch-fhd-6gb-gpu-windows-10-black-21163034.html,1425,I7,7,Intel,9,Jumia (EG)
+8,HP 15-dk0056wm Pavilion Gaming Laptop - Intel Core I5 - 8GB RAM - 256GB SSD - 15.6-inch FHD - 4GB GPU - Windows 10 - Shadow Black (English Keyboard),https://www.jumia.com.eg/hp-15-dk0056wm-pavilion-gaming-laptop-intel-core-i5-8gb-ram-256gb-ssd-15.6-inch-fhd-4gb-gpu-windows-10-shadow-black-english-keyboard-21200137.html,840,I5,5,Intel,13,Jumia (EG)
+9,Lenovo Legion 5-15IMH05H Gaming Laptop - Intel Core I7-10750H - 16GB RAM - 1TB HDD + 512GB SSD - 15.6-inch FHD - 6GB GTX1660 Ti GPU - Windows 10 - Phantom Black,https://www.jumia.com.eg/legion-5-15imh05h-gaming-laptop-intel-core-i7-10750h-16gb-ram-1tb-hdd-512gb-ssd-15.6-inch-fhd-6gb-gtx1660-ti-gpu-windows-10-phantom-black-lenovo-mpg773582.html,1260,I7,7,Intel,5,Jumia (EG)
+10,Lenovo Legion 5-15IMH05 Gaming Laptop - Intel Core I7 - 16GB RAM - 1TB HDD + 512GB SSD - 15.6-inch FHD - 4GB GPU - Windows 10 - Phantom Black (English Keyboard),https://www.jumia.com.eg/legion-5-15imh05-gaming-laptop-intel-core-i7-16gb-ram-1tb-hdd-512gb-ssd-15.6-inch-fhd-4gb-gpu-windows-10-phantom-black-english-keyboard-lenovo-mpg763783.html,1076,I7,7,Intel,6,Jumia (EG)
+11,MSI GF65 Thin 9SEXR Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 15.6-inch FHD - 6GB GPU - Windows 10 - Black,https://www.jumia.com.eg/gf65-thin-9sexr-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-15.6-inch-fhd-6gb-gpu-windows-10-black-msi-mpg761248.html,1200,I7,7,Intel,20,Jumia (EG)
+12,DELL G5 15-5500 Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 15.6-inch FHD - 6GB GPU - Windows 10 - Black,https://www.jumia.com.eg/g5-15-5500-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-6gb-gpu-15.6-inch-fhd-windows-10-black-dell-mpg751079.html,1196,I7,7,Intel,13,Jumia (EG)
+13,HP 15-dk0056wm Pavilion Gaming Laptop - Intel Core I5 - 8GB RAM - 1TB HDD + 256GB SSD - 15.6-inch FHD - 4GB GPU - Windowds 10 - Shadow Black,https://www.jumia.com.eg/hp-15-dk0056wm-pavilion-gaming-laptop-intel-core-i5-8gb-ram-1tb-hdd-256gb-ssd-15.6-inch-fhd-4gb-gpu-windowds-10-shadow-black-21200135.html,894,I5,5,Intel,7,Jumia (EG)
+14,DELL G5 15-5500 Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 15.6-inch FHD - 4GB GPU - Windows 10 - Black,https://www.jumia.com.eg/g5-15-5500-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-15.6-inch-fhd-4gb-gpu-windows-10-black-dell-mpg752421.html,1013,I7,7,Intel,32,Jumia (EG)
+15,MSI GL65 Leopard Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 15.6-inch FHD - 8GB GPU - Windows 10 - English Keyboard,https://www.jumia.com.eg/gl65-leopard-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-15.6-inch-fhd-8gb-gpu-windows-10-english-keyboard-msi-mpg772159.html,1680,I7,7,Intel,30,Jumia (EG)
+16,Lenovo Legion 5-17IMH05H Gaming Laptop - Intel Core I7-10750H - 16GB RAM - 1TB HDD + 256GB SSD - 17.3-inch FHD - 6GB GTX 1660 Ti GPU - Windows 10 - Phantom Black (English Keyboard),https://www.jumia.com.eg/lenovo-legion-5-17imh05h-gaming-laptop-intel-core-i7-10750h-16gb-ram-1tb-hdd-256gb-ssd-17.3-inch-fhd-6gb-gtx-1660-ti-gpu-windows-10-phantom-black-english-keyboard-21284474.html,1200,I7,7,Intel,13,Jumia (EG)
+17,Lenovo Legion 5 15ARH05H Gaming Laptop - AMD Ryzen 7 - 16GB RAM - 1TB HDD + 512GB SSD - 15.6-inch FHD - 6GB 1660 Ti GPU - Windows - Phantom Black (English Keyboard),https://www.jumia.com.eg/lenovo-legion-5-15arh05h-gaming-laptop-amd-ryzen-7-16gb-ram-1tb-hdd-512gb-ssd-15.6-inch-fhd-6gb-1660-ti-gpu-windows-phantom-black-english-keyboard-21158867.html,1290,Ryzen 7,7,AMD,14,Jumia (EG)
+18,Lenovo Ideapad 15IMH05 3 Gaming Laptop - Intel Core I5 - 8GB RAM - 1TB HDD + 128GB SSD - 15.6-inch FHD - 4GB GPU - DOS - Onyx Black,https://www.jumia.com.eg/lenovo-ideapad-15imh05-3-gaming-laptop-intel-core-i5-8gb-ram-1tb-hdd-128gb-ssd-15.6-inch-fhd-4gb-gpu-dos-onyx-black-21219409.html,840,I5,5,Intel,13,Jumia (EG)
+20,Lenovo IdeaPad Gaming 3 15ARH05 Laptop - AMD Ryzen 5 - 16GB RAM - 256GB SSD + 1TB HDD - 15.6-inch FHD - 4GB GPU - DOS - Chameleon Blue,https://www.jumia.com.eg/ideapad-gaming-3-15arh05-laptop-amd-ryzen-5-16gb-ram-256gb-ssd-1tb-hdd-15.6-inch-fhd-4gb-gpu-dos-chameleon-blue-lenovo-mpg770883.html,960,Ryzen 5,5,AMD,10,Jumia (EG)
+21,DELL G5 15-5500 Gaming Laptop - Intel Core I7-10750H - 16GB RAM - 512GB SSD - 15.6-inch FHD – 6GB GTX 1660 Ti GPU - Windows 10 - Black,https://www.jumia.com.eg/g5-15-5500-gaming-laptop-intel-core-i7-10750h-16gb-ram-512gb-ssd-15.6-inch-fhd-6gb-gtx-1660-ti-gpu-windows-10-black-dell-mpg769832.html,1230,I7,7,Intel,11,Jumia (EG)
+22,Lenovo IdeaPad Gaming 3 15IMH05 Laptop - Intel Core I7 - 16GB RAM - 512GB SSD + 1TB HDD - 15.6-inch FHD - 4GB GPU - Windows 10 - Onyx Black (English Keyboard),https://www.jumia.com.eg/lenovo-ideapad-gaming-3-15imh05-laptop-intel-core-i7-16gb-ram-512gb-ssd-1tb-hdd-15.6-inch-fhd-4gb-gpu-windows-10-onyx-black-english-keyboard-21219405.html,1050,I7,7,Intel,13,Jumia (EG)
+23,MSI GF63 Thin Gaming Laptop - Intel Core I5 - 8GB RAM - 256GB SSD - 15.6-inch FHD - 4GB GPU - Windows 10 - Black (English Keyboard),https://www.jumia.com.eg/msi-gf63-thin-gaming-laptop-intel-core-i5-8gb-ram-256gb-ssd-15.6-inch-fhd-4gb-gpu-windows-10-black-english-keyboard-21166395.html,840,I5,5,Intel,18,Jumia (EG)
+24,Lenovo Legion 5 15IMH05H Gaming Laptop - Intel Core I7 - 16GB RAM - 256GB SSD + 1TB HDD - 15.6-inch FHD - 6GB GTX1660 Ti GPU - DOS - Phantom Black,https://www.jumia.com.eg/legion-5-15imh05h-gaming-laptop-intel-core-i7-16gb-ram-256gb-ssd-1tb-hdd-15.6-inch-fhd-6gb-gtx1660-ti-gpu-dos-phantom-black-lenovo-mpg767932.html,1164,I7,7,Intel,8,Jumia (EG)
+25,DELL G3 15-3500 Gaming Laptop - Intel Core I5-10300H - 8GB RAM - 256GB SSD + 1TB HDD - 15.6-inch FHD - 4GB GTX 1650Ti GPU - Windows 10 - Black (English Keyboard),https://www.jumia.com.eg/g3-15-3500-gaming-laptop-intel-core-i5-10300h-8gb-ram-256gb-ssd-1tb-hdd-15.6-inch-fhd-4gb-gtx-1650ti-gpu-windows-10-black-english-keyboard-dell-mpg767979.html,947,I5,5,Intel,5,Jumia (EG)
+26,Lenovo IdeaPad Gaming 3 Laptop - Intel Core I7-10750H - 16GB RAM - 256GB SSD + 1TB HDD - 15.6-inch FHD-GeForce® GTX 1650 4GB - 4GB GPU - DOS - Black,https://www.jumia.com.eg/ideapad-gaming-3-laptop-intel-core-i7-10750h-16gb-ram-256gb-ssd-1tb-hdd-15.6-inch-fhd-geforcer-gtx-1650-4gb-4gb-gpu-dos-black-lenovo-mpg773000.html,1008,I7,7,Intel,12,Jumia (EG)
+27,HP Pavilion Gaming - 15-dk0056wm 1TB+256 SSD Core I5-8GB RAM 15.6-inch FHD-4GB GPU -Shadow Black,https://www.jumia.com.eg/hp-pavilion-gaming-15-dk0056wm-1tb256-ssd-core-i5-8gb-ram-15.6-inch-fhd-4gb-gpu-shadow-black-21080705.html,911,I5,5,Intel,9,Jumia (EG)
+28,Asus Rog Strix G512li Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 15.6-inch FHD - 4GB GPU - Windows 10 - Black,https://www.jumia.com.eg/asus-rog-strix-g512li-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-15.6-inch-fhd-4gb-gpu-windows-10-black-21173930.html,1080,I7,7,Intel,10,Jumia (EG)
+29,DELL G5 15-5500 Gaming Laptop - Intel Core I7 - 8GB RAM - 256GB SSD - 15.6-inch FHD – 4GB GPU - Windows 10 - Black,https://www.jumia.com.eg/g5-15-5500-gaming-laptop-intel-core-i7-8gb-ram-256gb-ssd-15.6-inch-fhd-4gb-gpu-windows-10-black-dell-mpg769827.html,1020,I7,7,Intel,6,Jumia (EG)
+30,Lenovo IdeaPad Gaming 3 15IMH05 Laptop - Intel Core I5 - 8GB RAM - 512GB SSD - 15.6-inch FHD - 4GB GTX 1650 Ti GPU - Windows 10 - Onyx Black (English Keyboard),https://www.jumia.com.eg/ideapad-gaming-3-15imh05-laptop-intel-core-i5-8gb-ram-512gb-ssd-15.6-inch-fhd-4gb-gtx-1650-ti-gpu-windows-10-onyx-black-english-keyboard-lenovo-mpg763327.html,903,I5,5,Intel,3,Jumia (EG)
+31,HP OMEN 15 Gaming Laptop - Intel Core I7 - 16GB RAM - 256GB SSD - 15.6-inch FHD - 8GB GPU - Windows 10 - Shadow Black,https://www.jumia.com.eg/hp-omen-15-gaming-laptop-intel-core-i7-16gb-ram-256gb-ssd-15.6-inch-fhd-8gb-gpu-windows-10-shadow-black-21200133.html,1740,I7,7,Intel,28,Jumia (EG)
+32,MSI GF65 Thin Gaming Laptop - Intel Core I7 - 8GB RAM - 512GB SSD - 15.6-inch FHD - 6GB 1660TI GPU - Windows 10 - English Keyboard,https://www.jumia.com.eg/msi-gf65-thin-gaming-laptop-intel-core-i7-8gb-ram-512gb-ssd-15.6-inch-fhd-6gb-1660ti-gpu-windows-10-english-keyboard-21164900.html,1080,I7,7,Intel,18,Jumia (EG)
+33,Lenovo Ideapad 3 Gaming Laptop - Intel Core I7 - 8GB RAM - 512 SSD - 15.6-inch FHD - 4GB GPU - Windows 10 - Black,https://www.jumia.com.eg/ideapad-3-gaming-laptop-intel-core-i7-8gb-ram-512-ssd-15.6-inch-fhd-4gb-gpu-windows-10-black-lenovo-mpg773001.html,960,I7,7,Intel,6,Jumia (EG)
+34,Lenovo Ideapad 15IMH05 3 Gaming Laptop - Intel Core I5 - 8GB RAM - 1TB HDD + 128GB SSD - 15.6-inch FHD - 4GB GPU - DOS - Onyx Black,https://www.jumia.com.eg/lenovo-ideapad-15imh05-3-gaming-laptop-intel-core-i5-8gb-ram-1tb-hdd-128gb-ssd-15.6-inch-fhd-4gb-gpu-dos-onyx-black-21219408.html,840,I5,5,Intel,18,Jumia (EG)
+35,Lenovo Ideapad Gaming 3 Laptop 15IMH05 - Intel Core I7 - 16GB RAM - 1TB HDD + 256GB SSD - 4G GPU - 15.6-inch FHD - Windows 10 - Onyx Black,https://www.jumia.com.eg/ideapad-gaming-3-laptop-15imh05-intel-core-i7-16gb-ram-1tb-hdd-256gb-ssd-4g-gpu-15.6-inch-fhd-windows-10-onyx-black-lenovo-mpg773003.html,1050,I7,7,Intel,8,Jumia (EG)
+36,DELL G5 15-5500 Gaming Laptop - Intel Core I7-10750H - 16GB RAM - 512GB SSD - 15.6-inch FHD 120Hz - GTX 1660Ti 6GB GDDR6 -Ubuntu - Black,https://www.jumia.com.eg/g5-15-5500-gaming-laptop-intel-core-i7-10750h-16gb-ram-512gb-ssd-15.6-inch-fhd-120hz-gtx-1660ti-6gb-gddr6-ubuntu-black-dell-mpg769830.html,1230,I7,7,Intel,11,Jumia (EG)
+37,DELL G5 15-5500 Gaming Laptop - Intel Core I5-10300H - 8GB RAM -1TB+ 256GB SSD - 15.6-inch FHD – 4GB GTX 1650 GPU - Black,https://www.jumia.com.eg/dell-g5-15-5500-gaming-laptop-intel-core-i5-10300h-8gb-ram-1tb-256gb-ssd-15.6-inch-fhd-4gb-gtx-1650-gpu-black-21176258.html,930,I5,5,Intel,18,Jumia (EG)
+38,Asus TUF FX506LI-HN138T Gaming Laptop - Intel Core I7 - 16GB RAM - 1TB HDD + 512GB SSD - 15.6 FHD 144Hz Display - 4GB GPU - Windows 10 - Grey Metal,https://www.jumia.com.eg/asus-tuf-fx506li-hn138t-gaming-laptop-intel-core-i7-16gb-ram-1tb-hdd-512gb-ssd-15.6-fhd-144hz-display-4gb-gpu-windows-10-grey-metal-21218277.html,1240,I7,7,Intel,14,Jumia (EG)
+39,DELL G5 15-5500 Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 4GB GPU - 15.6-inch FHD-dos - Black,https://www.jumia.com.eg/dell-g5-15-5500-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-4gb-gpu-15.6-inch-fhd-dos-black-21213364.html,1011,I7,7,Intel,50,Jumia (EG)
+40,Lenovo Legion 5-15IMH05H Gaming Laptop - Intel Core I7-10750H - 16GB RAM - 1TB HDD + 512GB SSD - 15.6-inch FHD - 6GB GTX1660 Ti GPU - Windows 10-- Phantom Black (English & ARABIC Keyboard),https://www.jumia.com.eg/lenovo-legion-5-15imh05h-gaming-laptop-intel-core-i7-10750h-16gb-ram-1tb-hdd-512gb-ssd-15.6-inch-fhd-6gb-gtx1660-ti-gpu-windows-10-phantom-black-english-arabic-keyboard-21284543.html,1191,I7,7,Intel,17,Jumia (EG)
+42,DELL G5 15-5500 Gaming Laptop - Intel Core I7-10750H - 16GB RAM - 512GB SSD - 15.6-inch FHD - 6GB RTX 2060 GPU - Windows 10 - Black (English Keyboard),https://www.jumia.com.eg/g5-15-5500-gaming-laptop-intel-core-i7-10750h-16gb-ram-512gb-ssd-15.6-inch-fhd-6gb-rtx-2060-gpu-windows-10-black-english-keyboard-dell-mpg769829.html,1488,I7,7,Intel,5,Jumia (EG)
+43,Lenovo Legion Y540-15IRH Gaming Laptop - Intel Core I7 - 16GB RAM - 1TB HDD + 256GB SSD - 15.6-inch FHD - 6GB GPU - DOS - Black,https://www.jumia.com.eg/legion-y540-15irh-gaming-laptop-intel-core-i7-16gb-ram-1tb-hdd-256gb-ssd-15.6-inch-fhd-6gb-gpu-dos-black-lenovo-mpg188463.html,1560,I7,7,Intel,4,Jumia (EG)
+45,Asus ROG ZEPHYRUS M15 GU502LW Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 15.6-inch FHD - 8GB GPU - Windows 10 - Black (English Keyboard),https://www.jumia.com.eg/rog-zephyrus-m15-gu502lw-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-15.6-inch-fhd-8gb-gpu-windows-10-black-asus-mpg771772.html,1800,I7,7,Intel,25,Jumia (EG)
+46,DELL G3 15-3500 Gaming Laptop - Intel Core I7-10750H - 16GB RAM - 512GB SSD - 15.6-inch FHD - 6GB GPU - Windows 10 - Black,https://www.jumia.com.eg/g3-15-3500-gaming-laptop-intel-core-i7-10750h-16gb-ram-512gb-ssd-15.6-inch-fhd-6gb-gpu-windows-10-black-dell-mpg771822.html,1440,I7,7,Intel,20,Jumia (EG)
+47,HP OMEN 15 Gaming Laptop - Intel Core I7 - 16GB RAM - 512GB SSD - 15.6-inch FHD - 8GB GPU - Windows 10 - Black,https://www.jumia.com.eg/omen-15-gaming-laptop-intel-core-i7-16gb-ram-512gb-ssd-15.6-inch-fhd-8gb-gpu-windows-10-black-hp-mpg772151.html,1800,I7,7,Intel,17,Jumia (EG)
+0,"PC Gamer 
+						
+							Dell
+						
+						Inspiron G3 15-3500-853",https://www.boulanger.com/ref/1152079,1062,i5,5,Intel,24,Boulanger (FR)
+1,"PC Gamer 
+						
+							Acer
+						
+						Predator Helios 300 PH317-54-7677",https://www.boulanger.com/ref/1151227,2005,i7,7,Intel,15,Boulanger (FR)
+2,"PC Gamer 
+						
+							MSI
+						
+						GF75 Thin 10UEK-035FR + sac à dos",https://www.boulanger.com/ref/1157099,2241,i7,7,Intel,0,Boulanger (FR)
+3,"PC Gamer 
+						
+							Dell
+						
+						Inspiron G3 15-3500-294",https://www.boulanger.com/ref/1152078,944,i5,5,Intel,11,Boulanger (FR)
+4,"PC Gamer 
+						
+							Acer
+						
+						Predator PT315-52-57EF Noir",https://www.boulanger.com/ref/1157998,1297,i5,5,Intel,15,Boulanger (FR)
+5,"PC Gamer 
+						
+							MSI
+						
+						GF75 Thin 10SCSR-493FR",https://www.boulanger.com/ref/1152134,1533,i7,7,Intel,13,Boulanger (FR)
+6,"PC Gamer 
+						
+							Acer
+						
+						Nitro AN515-44-R3SQ",https://www.boulanger.com/ref/1158270,1356,Ryzen 7,7,AMD,8,Boulanger (FR)
+7,"PC Gamer 
+						
+							Dell
+						
+						Inspiron G3 15-3500-860",https://www.boulanger.com/ref/1152080,1710,i7,7,Intel,9,Boulanger (FR)
+8,"Ordinateur portable 
+						
+							MSI
+						
+						Modern 14 B10MW-462FR",https://www.boulanger.com/ref/1157116,1179,i7,7,Intel,11,Boulanger (FR)
+9,"PC Gamer 
+						
+							HP
+						
+						Pavilion Gaming 16-a0089nf",https://www.boulanger.com/ref/1147723,1605,i7,7,Intel,24,Boulanger (FR)
+12,"Ordinateur portable 
+						
+							Asus
+						
+						ZEPHYRUS-G14-GA401V-150T",https://www.boulanger.com/ref/1155838,1887,Ryzen 9,9,AMD,20,Boulanger (FR)
+13,"PC Gamer 
+						
+							Lenovo
+						
+						Creator 5 15IMH05-539 + premium care",https://www.boulanger.com/ref/1150803,1592,i5,5,Intel,10,Boulanger (FR)
+14,"PC Gamer 
+						
+							Lenovo
+						
+						Legion5P 15IMH05H-631",https://www.boulanger.com/ref/1147836,1627,i5,5,Intel,8,Boulanger (FR)
+16,"PC Gamer 
+						
+							Dell
+						
+						Inspiron G5 15-5500-269",https://www.boulanger.com/ref/1152084,2123,i7,7,Intel,0,Boulanger (FR)
+17,"PC Gamer 
+						
+							MSI
+						
+						GL65 Leopard 10SFSK-291FR",https://www.boulanger.com/ref/1148756,2004,i7,7,Intel,22,Boulanger (FR)
+19,"PC Gamer 
+						
+							Asus
+						
+						SCAR15-G533QR-HF009T",https://www.boulanger.com/ref/1156746,2949,Ryzen 9,9,AMD,0,Boulanger (FR)
+20,"PC Gamer 
+						
+							MSI
+						
+						Prestige 15 A11SCS-216FR",https://www.boulanger.com/ref/1152137,1887,i7,7,Intel,11,Boulanger (FR)
+21,"PC Gamer 
+						
+							HP
+						
+						OMEN 17-cb1099nf",https://www.boulanger.com/ref/1151885,2949,i7,7,Intel,0,Boulanger (FR)
+22,"PC Gamer 
+						
+							MSI
+						
+						Stealth 15M A11UEK-049FR",https://www.boulanger.com/ref/1157100,2240,i7,7,Intel,0,Boulanger (FR)
+23,"PC Gamer 
+						
+							HP
+						
+						OMEN 15-ek0071nf",https://www.boulanger.com/ref/1151888,2123,i7,7,Intel,0,Boulanger (FR)
+24,"Ordinateur portable 
+						
+							MSI
+						
+						Stealth 15M A11SDK-083FR",https://www.boulanger.com/ref/1152141,2241,i7,7,Intel,0,Boulanger (FR)
+25,"Ordinateur portable 
+						
+							Asus
+						
+						ZEPHYRUS-G14-GA401IV-356T +Etui+Souris",https://www.boulanger.com/ref/1151557,2713,Ryzen 9,9,AMD,14,Boulanger (FR)
+26,"PC Gamer 
+						
+							HP
+						
+						OMEN 15-ek0069nf",https://www.boulanger.com/ref/1147718,2359,i7,7,Intel,0,Boulanger (FR)
+27,"PC Gamer 
+						
+							Lenovo
+						
+						Legion5 17IMH05H-517",https://www.boulanger.com/ref/1147841,2359,i7,7,Intel,0,Boulanger (FR)
+28,"Ordinateur portable 
+						
+							MSI
+						
+						Prestige 15 A11SCS-215FR",https://www.boulanger.com/ref/1152138,2359,i7,7,Intel,4,Boulanger (FR)
+29,"PC Gamer 
+						
+							HP
+						
+						OMEN 15-ek0131nf",https://www.boulanger.com/ref/1152846,2359,i7,7,Intel,0,Boulanger (FR)
+30,"PC Gamer 
+						
+							Asus
+						
+						ZEPHYRUS-S17-GX735LWS-74T Numpad",https://www.boulanger.com/ref/1146838,2654,i7,7,Intel,39,Boulanger (FR)
+31,"PC Gamer 
+						
+							HP
+						
+						OMEN 17-cb1072nf",https://www.boulanger.com/ref/1143708,2417,i7,7,Intel,24,Boulanger (FR)
+32,"PC Gamer 
+						
+							HP
+						
+						OMEN 17-cb1015nf",https://www.boulanger.com/ref/1143709,2674,i7,7,Intel,24,Boulanger (FR)
+33,"PC Gamer 
+						
+							Lenovo
+						
+						Legion C7 15IMH05-982 + premium Care",https://www.boulanger.com/ref/1147833,2596,i7,7,Intel,26,Boulanger (FR)
+34,"PC Gamer 
+						
+							Asus
+						
+						DASH-TUF516PR-AZ019T",https://www.boulanger.com/ref/1156744,2713,i7,7,Intel,0,Boulanger (FR)
+35,"PC Gamer 
+						
+							Asus
+						
+						DASH-TUF516PR-AZ024T",https://www.boulanger.com/ref/1156745,2713,i7,7,Intel,0,Boulanger (FR)
+36,"PC Gamer 
+						
+							Acer
+						
+						Predator Triton 500 PT515-52-71ZU",https://www.boulanger.com/ref/1151966,2831,i7,7,Intel,20,Boulanger (FR)
+37,"PC Gamer 
+						
+							MSI
+						
+						GE66 Raider 10UE-282FR",https://www.boulanger.com/ref/1157095,2831,i7,7,Intel,0,Boulanger (FR)
+39,"Ordinateur portable 
+						
+							Asus
+						
+						ZEPHYRUS-G14-GA401IV-159T LED",https://www.boulanger.com/ref/1144262,2949,Ryzen 9,9,AMD,8,Boulanger (FR)
+41,"PC Gamer 
+						
+							MSI
+						
+						GE66 Raider 10UE-281FR",https://www.boulanger.com/ref/1157094,3067,i7,7,Intel,0,Boulanger (FR)
+42,"PC Gamer 
+						
+							MSI
+						
+						GE66 Raider 10UG-280FR",https://www.boulanger.com/ref/1157093,3185,i7,7,Intel,6,Boulanger (FR)
+43,"Ordinateur portable 
+						
+							MSI
+						
+						Creator 15 A10UET-095FR",https://www.boulanger.com/ref/1157092,3539,i7,7,Intel,0,Boulanger (FR)
+44,"PC Gamer 
+						
+							MSI
+						
+						GS75 Stealth 10SGS-893FR",https://www.boulanger.com/ref/1152048,3185,i7,7,Intel,32,Boulanger (FR)
+45,"PC Gamer 
+						
+							Lenovo
+						
+						Legion7 15IMHG05-841",https://www.boulanger.com/ref/1147838,3539,i7,7,Intel,0,Boulanger (FR)
+46,"PC Gamer 
+						
+							Asus
+						
+						SCAR15-G533QS-HF009T",https://www.boulanger.com/ref/1156750,3775,Ryzen 9,9,AMD,0,Boulanger (FR)
+48,"PC Gamer 
+						
+							Asus
+						
+						ZEPHYRUS-S17-GX735LXS-33T",https://www.boulanger.com/ref/1144260,3598,i7,7,Intel,12,Boulanger (FR)
+49,"PC Gamer 
+						
+							Asus
+						
+						SCAR17-G733QS-HG019T",https://www.boulanger.com/ref/1156755,3893,Ryzen 7,7,AMD,10,Boulanger (FR)
+50,"PC Gamer 
+						
+							MSI
+						
+						GE76 Raider 10UG-249FR",https://www.boulanger.com/ref/1157091,3775,i7,7,Intel,0,Boulanger (FR)
+51,"PC Gamer 
+						
+							MSI
+						
+						GE76 Raider 10UH-248FR",https://www.boulanger.com/ref/1157080,4483,i7,7,Intel,0,Boulanger (FR)
+52,"PC Gamer 
+						
+							Lenovo
+						
+						Legion7 15IMHG05-582",https://www.boulanger.com/ref/1147839,4365,i7,7,Intel,0,Boulanger (FR)
+53,"PC Gamer 
+						
+							MSI
+						
+						Creator 15 A10UG-235FR",https://www.boulanger.com/ref/1157079,4483,i7,7,Intel,0,Boulanger (FR)
+54,"Ordinateur portable 
+						
+							MSI
+						
+						Creator 15 A10UH-094FR",https://www.boulanger.com/ref/1157078,5073,i7,7,Intel,0,Boulanger (FR)
+55,"PC Gamer 
+						
+							MSI
+						
+						GE66 Raider 10UH-279FR",https://www.boulanger.com/ref/1157077,5309,i9,9,Intel,0,Boulanger (FR)
+56,"PC Gamer 
+						
+							Dell
+						
+						Inspiron G3 15-3500-249",https://www.boulanger.com/ref/1156856,1061,i5,5,Intel,0,Boulanger (FR)
+57,"PC Gamer 
+						
+							HP
+						
+						Omen 15-ek0126nf",https://www.boulanger.com/ref/1151881,1887,i5,5,Intel,0,Boulanger (FR)
+60,"PC Gamer 
+						
+							MSI
+						
+						GL65 Leopard 10SFK-623FR",https://www.boulanger.com/ref/1150703,1769,i7,7,Intel,25,Boulanger (FR)
+61,"PC Gamer 
+						
+							HP
+						
+						Pavilion Gaming 15-dk1368nf",https://www.boulanger.com/ref/1147717,1769,i7,7,Intel,0,Boulanger (FR)
+62,"PC Gamer 
+						
+							Acer
+						
+						Aspire A715-41G-R93Y Noir",https://www.boulanger.com/ref/1148126,1061,Ryzen 5,5,AMD,12,Boulanger (FR)
+63,"PC Gamer 
+						
+							Asus
+						
+						A17 TUF766II H7232T+Sac à Dos+Souris",https://www.boulanger.com/ref/1151561,1533,Ryzen 7,7,AMD,7,Boulanger (FR)
+64,"PC Gamer 
+						
+							Acer
+						
+						Predator Helios 300 PH317-54-775H",https://www.boulanger.com/ref/1151964,1769,i7,7,Intel,16,Boulanger (FR)
+65,"PC Gamer 
+						
+							MSI
+						
+						GF65 Thin 10SDR-1037FR sac à dos",https://www.boulanger.com/ref/1150704,1651,i7,7,Intel,0,Boulanger (FR)
+67,"PC Gamer 
+						
+							Asus
+						
+						A17-TUF766IU-H7291T",https://www.boulanger.com/ref/1157567,1769,Ryzen 9,9,AMD,0,Boulanger (FR)
+68,"PC Gamer 
+						
+							MSI
+						
+						GP76 Leopard 10UG-251FR",https://www.boulanger.com/ref/1157097,2595,i7,7,Intel,8,Boulanger (FR)
+69,"PC Gamer 
+						
+							Dell
+						
+						Inspiron G3 15-3590-330",https://www.boulanger.com/ref/1147181,1204,i7,7,Intel,21,Boulanger (FR)
+70,"PC Gamer 
+						
+							Asus
+						
+						STRIX-G17-G713QR-HG022T",https://www.boulanger.com/ref/1156752,2713,Ryzen 9,9,AMD,0,Boulanger (FR)
+71,"PC Gamer 
+						
+							Asus
+						
+						A17 TUF766IU H7185T",https://www.boulanger.com/ref/1151562,2359,Ryzen 9,9,AMD,0,Boulanger (FR)
+72,"PC Gamer 
+						
+							Asus
+						
+						STRIX-G15-G513QR-HN046T",https://www.boulanger.com/ref/1156743,2359,Ryzen 9,9,AMD,0,Boulanger (FR)
+73,"PC Gamer 
+						
+							Asus
+						
+						STRIX-G17-G713QR-HX079T",https://www.boulanger.com/ref/1156754,2713,Ryzen 7,7,AMD,0,Boulanger (FR)
+75,"PC Gamer 
+						
+							Asus
+						
+						ZEPHYRUS-DUO-GX551QR-006T",https://www.boulanger.com/ref/1156757,4129,Ryzen 9,9,AMD,0,Boulanger (FR)
+77,"PC Gamer 
+						
+							MSI
+						
+						GE76 Raider 10UH-244FR",https://www.boulanger.com/ref/1157076,5899,i9,9,Intel,0,Boulanger (FR)
+79,"PC Gamer 
+						
+							Asus
+						
+						TUF505DU-AL052T
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1128204,1171,Ryzen 7,7,AMD,23,Boulanger (FR)
+82,"PC Gamer 
+						
+							HP
+						
+						Omen 17-an025nf
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1106307,1257,i7,7,Intel,0,Boulanger (FR)
+83,"PC Gamer 
+						
+							HP
+						
+						OMEN 15-ce023nf
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1096958,1259,i7,7,Intel,0,Boulanger (FR)
+85,"PC Gamer 
+						
+							HP
+						
+						OMEN 15-ce019nf
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1096957,1267,i5,5,Intel,0,Boulanger (FR)
+87,"PC Gamer 
+						
+							HP
+						
+						OMEN 15-dc0018nf
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1113809,1320,i7,7,Intel,0,Boulanger (FR)
+88,"PC Gamer 
+						
+							Asus
+						
+						TUF765GE-EV121T
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1111088,1438,i7,7,Intel,8,Boulanger (FR)
+89,"PC Gamer 
+						
+							Asus
+						
+						GL502VS-GZ363T
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1091166,1450,i7,7,Intel,30,Boulanger (FR)
+90,"PC Gamer 
+						
+							Acer
+						
+						Predator Helios 300 PH317-53-741L Noir
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1127920,1758,i7,7,Intel,9,Boulanger (FR)
+91,"PC Gamer 
+						
+							Asus
+						
+						SCAR2-G515GW-ES023R
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1116475,1805,i7,7,Intel,41,Boulanger (FR)
+92,"PC Gamer 
+						
+							MSI
+						
+						GE75 Raider 9SF-837FR
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1129523,1830,i7,7,Intel,32,Boulanger (FR)
+94,"PC Gamer 
+						
+							MSI
+						
+						GE75 9SE-620FR-689
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1128022,1888,i7,7,Intel,28,Boulanger (FR)
+95,"PC Gamer 
+						
+							MSI
+						
+						GE75 Raider 9SF-1238FR
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1139987,2154,i7,7,Intel,0,Boulanger (FR)
+96,"PC Gamer 
+						
+							HP
+						
+						Omen X2s double ecran 15dg0012
+						
+						
+							Reconditionné",https://www.boulanger.com/ref/1128369,2703,i9,9,Intel,0,Boulanger (FR)
+97,"PC Gamer 
+						
+							MSI
+						
+						GF75 Thin 10SER-417FR",https://www.boulanger.com/ref/1148754,1768,i7,7,Intel,6,Boulanger (FR)
+98,"PC Gamer 
+						
+							Asus
+						
+						A15 TUF566IV HN349T",https://www.boulanger.com/ref/1151559,1592,Ryzen 9,9,AMD,20,Boulanger (FR)
+99,"PC Gamer 
+						
+							Asus
+						
+						STRIX-G17-G712LW-EV063T+backpack+souris",https://www.boulanger.com/ref/1146837,2241,i7,7,Intel,26,Boulanger (FR)
+0,لاب توب العاب من ام اس اي جي اس 66 ستيلث 10SFS-032 15.6 انش، 300 هرتز 3 ام اس، انتل كور اي 9-10980 اتش كيه، ار تي اكس 2070 سوبر 32 جيجا، وسيط تخزين ذو حالة ثابتة 1 تيرا تي بي 3 ويندوز 10 برو في ار,https://www.amazon.sa/%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D8%B3%D8%AA%D9%8A%D9%84%D8%AB-10SFS-032-9-10980-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/dp/B085B37214/ref=sr_1_1?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-1,3072, اي 9,9,Intel,0,Amazon (SA)
+1,لاب توب ام اس اي للالعاب GL65 ليوبارد 10SFK-062 رفيع الاطار بشاشة 15.6 انش فل اتش دي 144 هرتز 3 ميلي ثانية، RTX2070 انتل كور i7-10750H ذاكرة 16 جيجا و512 جيجا واس اس دي ويندوز 10,https://www.amazon.sa/%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D9%84%D9%8A%D9%88%D8%A8%D8%A7%D8%B1%D8%AF-10SFK-062-RTX2070-i7-10750H/dp/B085B3GFRL/ref=sr_1_2?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-2,1598,i7,7,Intel,0,Amazon (SA)
+3,لاب توب لينوفو ليجون 5 15.6 انش فل اتش دي (1920x1080) اي بي اس ومعالج ايه ام دي رايزن 7 4800H، دي دي ار 4 16 جيجا ووسيط تخزين ذو حالة ثابتة 512 جيجا، نفيديا جي تي اكس 1660Ti، ويندوز 10 - اسود فانتوم,https://www.amazon.sa/%D9%84%D9%8A%D9%86%D9%88%D9%81%D9%88-1920x1080-%D9%88%D9%85%D8%B9%D8%A7%D9%84%D8%AC-4800H%D8%8C-1660Ti%D8%8C/dp/B08BB9RWXD/ref=sr_1_4?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-4,1115,رايزن 7,7,AMD,0,Amazon (SA)
+4,لاب توب ايسر نيترو 5 الجيل التاسع انتل كورi5-9300H، نفيديا جيفورس جي تي اكس 1650، اي بي اس فل اتش دي 15.6 انش، 8 جيجا دي دي ار 4، 256 جيجا، وسيط تخزين ذو حالة ثابتة، واي فاي 6، AN515-54-5812,https://www.amazon.sa/%D8%A7%D9%8A%D8%B3%D8%B1-%D8%A7%D9%84%D8%AA%D8%A7%D8%B3%D8%B9-%D9%83%D9%88%D8%B1i5-9300H%D8%8C-%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-AN515-54-5812/dp/B08H2H89K1/ref=sr_1_5?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-5,875,i5,5,Intel,0,Amazon (SA)
+5,لاب توب ايسر بريداتور هيلوس 300 للالعاب انتل i7-10750H، نفيديا جيفورس ار تي اكس 2060 6 جيجا، 15.6 انش فل اتش دي 144 هرتز، 16 جيجا دي دي ار 4، 512 جيجا، واي فاي 6، لوحة مفاتيح ار جي بي، PH315-53-72XD,https://www.amazon.sa/%D8%A7%D9%8A%D8%B3%D8%B1-%D8%A8%D8%B1%D9%8A%D8%AF%D8%A7%D8%AA%D9%88%D8%B1-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-i7-10750H%D8%8C-PH315-53-72XD/dp/B08842D7JS/ref=sr_1_6?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-6,2039,i7,7,Intel,0,Amazon (SA)
+6,لاب توب للألعاب ASUS TUF 2021، شاشة 15.6 بوصة بدقة 144 هرتز، معالج انتل كور i7-9750H، جيفورس جي تي اكس 1650، ذاكرة رام دي دي 4 1 تيرا اس اس دي، واي فاي 5، ويندوز 10 هوم + قطعة قماش من أوديسين,https://www.amazon.sa/%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-TUF-i7-9750H%D8%8C-%D8%AC%D9%8A%D9%81%D9%88%D8%B1%D8%B3-%D8%A3%D9%88%D8%AF%D9%8A%D8%B3%D9%8A%D9%86/dp/B08SHN8MDY/ref=sr_1_7?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-7,1221,i7,7,Intel,0,Amazon (SA)
+7,لاب توب اسوس TUF للالعاب بشاشة 15.6 انش فل اتش دي - معالج انتل كور i5-10300H - ذاكرة 8 جيجا - ذاكرة تخزين 256 جيجا - نفيديا جيفورس جي تي اكس 1650 Ti - اسود,https://www.amazon.sa/%D9%84%D8%A7%D8%A8-%D8%A7%D8%B3%D9%88%D8%B3-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D8%A8%D8%B4%D8%A7%D8%B4%D8%A9-15-6/dp/B07WNGFTN2/ref=sr_1_8?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-8,948,i5,5,Intel,0,Amazon (SA)
+9,لاب توب لينوفو ليجين Y540-15، شاشة 15.6 انش اي بي اس، 60 هرتز، 300 هرتز، انتل كور i7-9750H، 16G DDR4 2666Mz، 512 جيجا، 1 تيرابايت 7200، نيفيدا GTX1660Ti، ويندوز 10، 81SX00NNUS، اسود,https://www.amazon.sa/%D9%84%D9%8A%D9%86%D9%88%D9%81%D9%88-Y540-15%D8%8C-i7-9750H%D8%8C-GTX1660Ti%D8%8C-81SX00NNUS%D8%8C/dp/B07YLJZV2G/ref=sr_1_10?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-10,1474,i7,7,Intel,0,Amazon (SA)
+10,لابتوب 2020 ام اس اي GF75 رفيع للألعاب: الجيل العاشر كور i5-10300H، وسيط تخزين ذو حالة ثابتة بسعة 512 جيجا، شاشة 17.3 انش، نفيديا جي تي اكس 1650، ذاكرة وصول عشوائي 8 جيجابايت,https://www.amazon.sa/%D9%84%D8%A7%D8%A8%D8%AA%D9%88%D8%A8-2020-GF75-%D8%B1%D9%81%D9%8A%D8%B9-%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8/dp/B08F5J26M3/ref=sr_1_11?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-11,997,i5,5,Intel,0,Amazon (SA)
+11,"Acer Nitro 5 Gaming Laptop, AMD Ryzen 5 4600H Hexa-Core Processor, NVIDIA GeForce GTX 1650 Ti, 15.6"" Full HD IPS Display, 8GB DDR4, 256GB NVMe SSD, WiFi 6, DTS X Ultra, Backlit Keyboard, AN515-44-R078",https://www.amazon.sa/AN515-44-R078/dp/B08CPW7WP7/ref=sr_1_12?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-12,1174,Ryzen 5,5,AMD,0,Amazon (SA)
+12,"2020 Asus TUF 15.6"" FHD Premium Gaming Laptop, 10th Gen Intel Quad-Core i5-10300H, 16GB RAM, 512GB SSD Boot + 1TB HDD, NVIDIA GeForce GTX 1650Ti 4GB GDDR6, RGB Backlit Keyboard, Windows 10 Home",https://www.amazon.sa/ASUS/dp/B08NBZ1YWD/ref=sr_1_13?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-13,1111,i5,5,Intel,0,Amazon (SA)
+16,"ASUS TUF Gaming Laptop, 15.6” 144Hz Full HD IPS-Type Display, Intel Core i7-9750H Processor, GeForce GTX 1650, 8GB DDR4, 512GB PCIe SSD, Gigabit Wi-Fi 5, Windows 10 Home, FX505GT-AB73",https://www.amazon.sa/FX505GT-AB73/dp/B08KH2Q1FG/ref=sr_1_17?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-17,1070,i7,7,Intel,0,Amazon (SA)
+19,لاب توب ايليانوير M15 للالعاب ، انتل كور i7-10750H ، 15.6 انش فل اتش دي، 16 جيجا رام، 1 تيرابايت اس اس دي، 8 جيجا نفيديا RTX2070 GDDR6 جرافيكس، ويندوز 10، لون اسود,https://www.amazon.sa/%D8%A7%D9%8A%D9%84%D9%8A%D8%A7%D9%86%D9%88%D9%8A%D8%B1-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-i7-10750H-%D8%AA%D9%8A%D8%B1%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA-%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83%D8%B3%D8%8C/dp/B08H8WW237/ref=sr_1_20?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-20,3151,i7,7,Intel,0,Amazon (SA)
+22,لاب توب ام اس اي GE75 Raider- 10SF-286 17.3-240 هرتز، 3 ام اس - انتل كور I7 10875 ار تي اكس 2070، 16 جيجا، هارد 512 جيجا، ذاكرة مستديمة بوسيط تخزين، ويندوز 10، خاصية تقليل الاهتزاز، 17-30.99 انش,https://www.amazon.sa/GE75-Raider-10SF-286-17-3-240-%D9%87%D8%B1%D8%AA%D8%B2%D8%8C/dp/B089656G58/ref=sr_1_23?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-23,1889,I7,7,Intel,0,Amazon (SA)
+23,نوت بوك ايسر نايترو 5 AN515 للالعاب الجيل 10 انتل كور i7-10750 سداسي النواة 5.0 جيجا/ ذاكرة تخزين 20 جيجا رام 4 / 1 تيرا قرص صلب + 256 جيجا اس اس دي/ 4 جيجا نيفيديا جي تي اكس 1650/15.6 انش فل اتش دي,https://www.amazon.sa/%D8%A7%D9%8A%D8%B3%D8%B1-%D9%86%D8%A7%D9%8A%D8%AA%D8%B1%D9%88-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-i7-10750-%D9%86%D9%8A%D9%81%D9%8A%D8%AF%D9%8A%D8%A7/dp/B08LCSTYJN/ref=sr_1_24?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-24,1539,i7,7,Intel,0,Amazon (SA)
+24,لاب توب ام اس اي GF63 8RD للألعاب انتل كور i7-8750H شاشة 15.6 انش، يحتوي على 1 تيرابايت ساتا بلس 256 جيجا اس اس دي رام,https://www.amazon.sa/GF63-8RD-%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-i7-8750H-%D8%AA%D9%8A%D8%B1%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA/dp/B07Q1KT2GM/ref=sr_1_25?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-25,1472,i7,7,Intel,0,Amazon (SA)
+26,"HP Pavilion Gaming Laptop 17-inch, Intel Core i7, NVIDIA GeForce GTX 1660 Ti with Max-Q, 16 GB RAM, 256 GB SSD, Windows 10 Home (17-cd1030nr, Shadow Black)",https://www.amazon.sa/17-cd1030nr/dp/B08835NTQZ/ref=sr_1_27?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-27,1281,i7,7,Intel,0,Amazon (SA)
+32,لينوفو ليجن 5 15.6 انش فل اتش دي نوت بوك للالعاب، انتل كور i7-10750H بسرعة 2.6 جيجاهرتز، ذاكرة رام 8 جيجا، 256 جيجا اس اس دي، نفيديا جيفورس GTX 1650 4 جيجا، ويندوز 10 هوم، اسود,https://www.amazon.sa/%D9%84%D9%8A%D9%86%D9%88%D9%81%D9%88-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%8C-i7-10750H-%D8%AC%D9%8A%D8%AC%D8%A7%D9%87%D8%B1%D8%AA%D8%B2%D8%8C-%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7/dp/B0891SB8L5/ref=sr_1_33?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-33,1182,i7,7,Intel,0,Amazon (SA)
+33,"Razer Blade Pro 17 Gaming Laptop 2020: Intel Core i7-10875H 8-Core, NVIDIA GeForce RTX 2080 SUPER, 17.3"" 4K 120Hz, 16GB RAM, 1TB SSD, CNC, Chroma RGB, Thunderbolt 3, SD Card Reader, Creator Ready",https://www.amazon.sa/RZ09-03295E63-R3U1/dp/B087KXDMNS/ref=sr_1_34?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-34,4117,i7,7,Intel,0,Amazon (SA)
+34,"HP Omen 15-dh1000ne Gaming Laptop, 15.6"" FHD, 10th Gen Intel® Core™ i7, 16GB RAM, 1 TB SSD, NVIDIA GeForce GTX 1660 6GB Graphics, Windows 10 Home, EN-AR KB, Black - Middle East Version",https://www.amazon.sa/dp/B08HJSTLWV/ref=sr_1_35?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-35,1533,i7,7,Intel,0,Amazon (SA)
+37,لابتوب نوت بوك من الجيل الثالث للالعاب من ديل، انتل كور اي5 10300 اتش، 15 انش، وسيط تخزين ذو حالة ثابتة 512 جيجابايت، 8 جيجا بايت، نفيديا مخصصة، ويندوز 10، لوحة مفاتيح انجليزي/عربي، لون اسود,https://www.amazon.sa/%D9%84%D8%A7%D8%A8%D8%AA%D9%88%D8%A8-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%D8%8C-%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A/dp/B08NHN37ZQ/ref=sr_1_38?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-38,756, اي5,5,Intel,0,Amazon (SA)
+38,لاب توب لينوفو ليجيون 5 للالعاب، 15.6 انش فل اتش دي، 120 هرتز، معالج انتل كور i7-10750H، 8 جيجا، 512 جيجا اس اس دي، NVIDIA GTX 1650Ti، ويندوز 10، 82AU00CGUS,https://www.amazon.sa/%D9%84%D9%8A%D9%86%D9%88%D9%81%D9%88-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%8C-i7-10750H%D8%8C-1650Ti%D8%8C-82AU00CGUS/dp/B08NZKMH6J/ref=sr_1_39?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-39,1115,i7,7,Intel,0,Amazon (SA)
+40,لاب توب للألعاب ASUS TUF ، 15.6 بوصة عالي الدقة IPS ، Intel Core i5-9300H ، GeForce GTX 1650 ، 8GB DDR4 جيجابايت ، وسيط تخزين ذو حالة ثابتة 512GB PCIe 5 ، ويندوز 10 هوم ، FX505GT-US52,https://www.amazon.sa/%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-i5-9300H-GeForce-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA-FX505GT-US52/dp/B086QZPGKZ/ref=sr_1_41?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-41,931,i5,5,Intel,0,Amazon (SA)
+44,"Newest Lenovo Legion Y540 15.6"" FHD 144Hz IPS Premium Gaming Laptop, Intel 6-Core i7-9750H Upto 4.5GHz, 32GB RAM, 2048 GB Hybrid Drive, NVIDIA GeForce RTX 2060 6GB GDDR6, Backlit Keyboard, Windows 10",https://www.amazon.sa/LENOVO/dp/B084Z6P8PK/ref=sr_1_45?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-45,1527,i7,7,Intel,0,Amazon (SA)
+45,لاب توب اسوس TUF A17 للالعاب FA706II-H7004T، AMD رايزن 7 4800H، 2.9 جيجاهرتز (كاش 8ميجا الى 4.2جيجاهرتز)،رام 16 جيجا،SSD 512، FHD 17.3، نفيديا جيفورسGTX،1650 Ti 4 جيجا، GDDR6،120 هرتز،ويندوز 10،اسود,https://www.amazon.sa/FA706II-H7004T%D8%8C-4-2%D8%AC%D9%8A%D8%AC%D8%A7%D9%87%D8%B1%D8%AA%D8%B2-%D8%AC%D9%8A%D9%81%D9%88%D8%B1%D8%B3GTX%D8%8C1650-GDDR6%D8%8C120-%D9%87%D8%B1%D8%AA%D8%B2%D8%8C%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/dp/B08K9TY78P/ref=sr_1_46?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-46,1161,رايزن 7,7,AMD,0,Amazon (SA)
+46,لاب توب اتش بي بافليون للألعاب 15 بوصة ميكرو إيدج، معالج انتل كور i5-9300H، معالج نفيديا جيفورس GTX 1050 (3 جيجابايت) (15-dk0010nr، ظل أسود/أخضر حمضي) 15-15.99 inches 15-dk0020nr,https://www.amazon.sa/i5-9300H%D8%8C-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA-15-dk0010nr%D8%8C-15-15-99-15-dk0020nr/dp/B07SC6HG74/ref=sr_1_47?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-47,845,i5,5,Intel,0,Amazon (SA)
+47,"2019 ASUS TUF 15.6"" FHD Gaming Laptop Computer, AMD Ryzen 7 3750H Quad-Core up to 4.0GHz, 8GB DDR4 RAM, 256GB PCIe SSD, GeForce GTX 1660 Ti 6GB, 802.11ac WiFi, Bluetooth 4.2, USB 3.1, Windows 10",https://www.amazon.sa/FX505/dp/B07W5T9GX1/ref=sr_1_48?dchild=1&keywords=Gemming+laptop&qid=1615467557&sr=8-48,1147,Ryzen 7,7,AMD,0,Amazon (SA)
+48,لاب توب الالعاب ام اس اي GS66 ستيلث 10SE-442 شاشة 15.6 انش 240 هرتز 3 ام اس فائق النحافة وخفيف الوزن انتل كور i7-10875H RTX2060 سعة 16 جيجابايت 512 جيجابايت NVMe SSD Win10PRO VR Ready,https://www.amazon.sa/GS66-10SE-442-i7-10875H-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA-Win10PRO/dp/B0895Q3HW5/ref=sr_1_49?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-49,1657,i7,7,Intel,0,Amazon (SA)
+50,لاب توب العاب اتش بي بافليون جيمنج 16، جيفورس، انتل كور اي 5- فل اتش دي، ويندوز 10 هوم، لوحة مفاتيح باضاءة خلفية,https://www.amazon.sa/%D8%A8%D8%A7%D9%81%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%8A%D9%81%D9%88%D8%B1%D8%B3%D8%8C-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD-%D8%A8%D8%A7%D8%B6%D8%A7%D8%A1%D8%A9/dp/B089815FGM/ref=sr_1_51?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-51,1099, اي 5,5,Intel,0,Amazon (SA)
+52,لاب توب لينوفو ليجيون Y540 للالعاب: انتل كور i7-9750H، نفيديا RTX 2060، ذاكرة رام 16 جيجا، 512 جيجا اس اس دي + 1 تيرا اتش دي دي، 15.6 انش شاشة فل اتش دي 144 هرتز,https://www.amazon.sa/%D9%84%D8%A7%D8%A8-%D9%84%D9%8A%D9%86%D9%88%D9%81%D9%88-%D9%84%D9%8A%D8%AC%D9%8A%D9%88%D9%86-Y540-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8/dp/B0892RYBRB/ref=sr_1_53?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-53,1460,i7,7,Intel,0,Amazon (SA)
+53,لاب توب العاب ام اس اي GF65 رفيع 9SEXR-838 معالج i7-9750H/ ار تي اكس 2060/، رام 8 جيجا/وذاكرة 512 جيجا/ نظام تشغيل ويندوز 10,https://www.amazon.sa/GF65-9SEXR-838-i7-9750H-%D9%88%D8%B0%D8%A7%D9%83%D8%B1%D8%A9-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2/dp/B08BZQ9499/ref=sr_1_54?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-54,1260,i7,7,Intel,0,Amazon (SA)
+54,"Lenovo IdeaPad Gaming 3 15.6"" Gaming Laptop 120Hz Ryzen 7-4800H 8GB RAM 512GB SSD GTX 1650 Ti 4GB - AMD Ryzen 7-4800H Octa-core - NVIDIA GeForce GTX 1650 Ti 4GB GDDR6 - 120Hz Refresh Rate - in-pl",https://www.amazon.sa/15ARH05/dp/B08PDSJV27/ref=sr_1_55?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-55,1053,Ryzen 7,7,AMD,0,Amazon (SA)
+55,لاب توب لينوفو ايديا باد للالعاب 3i 15 بوصة، شاشة 15.6 بوصة فل اتش دي (1920 x 1080)، معالج انتل كور i5-10300H، رام 8 جيجا، ذاكرة رام 512 جيجا، نفيديا GTX 1650Ti جرافيكس، ويندوز 10، 81Y400U6US، اسود,https://www.amazon.sa/%D9%84%D9%8A%D9%86%D9%88%D9%81%D9%88-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-i5-10300H%D8%8C-%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83%D8%B3%D8%8C-81Y400U6US%D8%8C/dp/B08L5KL4SG/ref=sr_1_56?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-56,997,i5,5,Intel,0,Amazon (SA)
+56,"Asus ROG STRIX G712LWS-EV031T-STRIX G Gaming Laptop (Orignal Black) - Intel i7-10750H 2.6 GHz, 16 GB RAM,1TB, Nvidia GeForce RTX 2070 SUPER, 17.3 inches, Windows 10,Eng-Arb-KB",https://www.amazon.sa/dp/B08D389927/ref=sr_1_57?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-57,2469,i7,7,Intel,0,Amazon (SA)
+57,"MSI Creator 17 A10SF (RTX2070 Max-Q, GDDR6 8GB) [9S7-17G312-029] Gaming Laptop, Comet lake i7-10875H+HM470, 17.3 Inch, 1TB SSD, 32GB RAM, RTX2070 Max-Q, GDDR6 8GB, Win10, Eng-Ara KB",https://www.amazon.sa/9S7-17G312-029/dp/B089VRD9NQ/ref=sr_1_58?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-58,3892,i7,7,Intel,0,Amazon (SA)
+59,لاب توب بليد 15 2020 المخصص للالعاب من رايزر معالج انتل كور اي7 -10750H سداسي النواة، نفيديا جي فورس جي تي اكس 1660 تي اي,https://www.amazon.sa/%D8%A7%D9%84%D9%85%D8%AE%D8%B5%D8%B5-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-10750H-%D8%A7%D9%84%D9%86%D9%88%D8%A7%D8%A9%D8%8C-%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7/dp/B086MFZBM9/ref=sr_1_60?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-60,1773, اي7,7,Intel,0,Amazon (SA)
+63,"Lenovo Legion 5 15.6"" LED-Backlit Antiglare FHD Gaming Laptop 10th Gen Intel Core i7-10750H 16GB RAM 1TB HDD + 512GB NVMe SSD 6GB NVIDIA GeForce GTX 1660Ti Windows 10 Home - Moss Green",https://www.amazon.sa/81Y6003YUS/dp/B08FC15WPH/ref=sr_1_64?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-64,1393,i7,7,Intel,0,Amazon (SA)
+64,"Acer Predator Helios 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2070 Max-Q 8GB, 17.3"" FHD 144Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 1TB NVMe SSD, WiFi 6, RGB Keyboard, PH317-54-70Z5",https://www.amazon.sa/PH317-54-70Z5/dp/B089WG3YMT/ref=sr_1_65?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-65,1841,i7,7,Intel,0,Amazon (SA)
+66,لاب توب نوت بوك من الجيل الخامس للالعاب من ديل، انتل كور اي7 10750اتش - 15 انش، وسيط تخزين ذو حالة ثابتة 512 جيجا بايت، 16 جيجا بايت، نفيديا مخصصة، ويندوز 10، لوحة مفاتيح انجليزي/عربي، اسود,https://www.amazon.sa/%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D8%AF%D9%8A%D9%84%D8%8C-10750%D8%A7%D8%AA%D8%B4/dp/B08NHN2XPS/ref=sr_1_67?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-67,1313, اي7,7,Intel,0,Amazon (SA)
+67,لابتوب ديل G5 15 5500، شاشة 15.6 انش فل اتش دي، معالج 300 هرتز، انتل كور i7-10750H 5.0 جيجا هيرتز، رام 16 جيجا، 512B SSD، 8 جيجا RTX 2060، كيبورد انجليزي، ويندوز10، اسود، 5500-G5-E1700-BLK,https://www.amazon.sa/%D8%AF%D9%8A%D9%84-i7-10750H-%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%8C-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B210%D8%8C-5500-G5-E1700-BLK/dp/B08HYV9LR8/ref=sr_1_68?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-68,1714,i7,7,Intel,0,Amazon (SA)
+68,"MSI GL65 Leopard Gaming Laptop 2021 Newest, 15.6"" FHD 144Hz 3ms Thin-Bezel Display, Intel Six-Core i7-10750H, GeForce RTX 2070, 32GB DDR4 RAM, 1TB PCIe NVMe SSD + 2TB HDD, Windows 10",https://www.amazon.sa/GL65/dp/B08X4SRQYW/ref=sr_1_69?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-69,1973,i7,7,Intel,0,Amazon (SA)
+69,"HP Pavilion Gaming Laptop 15-ec1004nx, 15.6"" FHD, AMD Ryzen 5-46000H processor, 8GB RAM, 1TB HDD - 128GB SSD, NVIDIA GeForce GTX 1650 4GB Graphics, Windows 10 Home,EN-AR KB,Black - Middle East Version",https://www.amazon.sa/dp/B08XFCBFZG/ref=sr_1_70?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-70,972,Ryzen 5,5,AMD,0,Amazon (SA)
+72,"Lenovo Legion 5 15.6"" Gaming Laptop 144Hz AMD Ryzen 7-4800H 16GB RAM 512GB SSD RTX 2060 6GB Phantom Black - AMD Ryzen 7 4800H Octa-core - NVIDIA GeForce RTX 2060 6GB - in-Plane Switching (IPS) Te",https://www.amazon.sa/15RH05H/dp/B08Q7BL7N1/ref=sr_1_73?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-73,1503,Ryzen 7,7,AMD,0,Amazon (SA)
+73,لاب توب ايسر نايترو 7 للالعاب، شاشة 15.6 بوصة فل اتش دي، انتل الجيل التاسع i7-9750H، جيفورس GTX 1650 4 جيجا، 8 جيجا DDR4، ذاكرة تخزين اس اس دي NVMe 256جيجا، لوحة مفاتيح بإضاءة خلفية، AN715-51-73BU,https://www.amazon.sa/%D8%A7%D9%8A%D8%B3%D8%B1-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8%D8%8C-i7-9750H%D8%8C-256%D8%AC%D9%8A%D8%AC%D8%A7%D8%8C-AN715-51-73BU/dp/B07QYWKKD2/ref=sr_1_74?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-74,1213,i7,7,Intel,0,Amazon (SA)
+74,"ASUS Tuf (2019) Gaming Laptop, 15.6” Full HD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce RTX 2060, 16GB DDR4, 512GB PCIe SSD, Gigabit Wi-Fi 5, Windows 10 Home, FX505DV-PB74",https://www.amazon.sa/FX505DV-PB74/dp/B07SXTDL1S/ref=sr_1_75?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-75,1268,Ryzen 7,7,AMD,0,Amazon (SA)
+76,لاب توب الالعاب ام اس اي GS75 ستيلث 10SE-620 17.3 انش 240 هرتز فائق النحافة وخفيف الوزن انتل كور i7-10875H RTX2060 سعة 16 جيجابايت 512 جيجابايت NVMe SSD ويندوز 10PRO Ready,https://www.amazon.sa/%D8%A7%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-GS75-10SE-620-i7-10875H-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA/dp/B08965WD75/ref=sr_1_77?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-77,1656,i7,7,Intel,0,Amazon (SA)
+82,"Razer Blade Pro 17 Gaming Laptop 2020: Intel Core i7-10875H 8-Core, NVIDIA GeForce RTX 2070 Max-Q, 17.3"" FHD 300Hz, 16GB RAM, 512GB SSD, CNC Aluminum, Chroma RGB, Thunderbolt 3, SD Card Reader",https://www.amazon.sa/RZ09-03297E42-R3U1/dp/B087M5LXYW/ref=sr_1_83?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-83,3093,i7,7,Intel,0,Amazon (SA)
+85,لاب توب نيترو5 ايه ان 5 - شاشة 15.6 بوصة 144 هرتز - انتل كور i7- 10750H- 24 جيجا بايت - وسيط تخزين ذو حالة ثابتة 1024- 6 جيجا بايت، جي تي اكس 1660ti - اسود,https://www.amazon.sa/%D9%84%D8%A7%D8%A8-%D8%AA%D9%88%D8%A8-%D9%86%D9%8A%D8%AA%D8%B1%D9%885-%D8%A7%D9%8A%D9%87-%D8%A7%D9%86/dp/B08K829Q22/ref=sr_1_86?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-86,1863,i7,7,Intel,0,Amazon (SA)
+87,"Acer Predator Triton 300 Gaming Laptop, Intel i7-10750H, NVIDIA GeForce RTX 2070 Max-Q, 15.6"" FHD 240Hz 3ms IPS Display, 16GB Dual-Channel DDR4, 512GB NVMe SSD, WiFi 6, RGB Backlit KB, PT315-52-73WT",https://www.amazon.sa/PT315-52-73WT/dp/B0883HTT72/ref=sr_1_88?dchild=1&keywords=gaming+laptop&qid=1615467569&sr=8-88,1816,i7,7,Intel,0,Amazon (SA)
+105,"ROG Zephyrus G14 GA401II-HE046T Gaming Laptop (Moonlight White) – AMD Ryzen 7 4800HS Processor 2.9 GHz, 16GB RAM, 512GB SSD, NVIDIA GeForce GTX 1650 Ti, 14-inch FHD 120Hz, Win10, Backlit-Eng-Arb-KB",https://www.amazon.sa/dp/B08LDZ8BZX/ref=sr_1_106?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-106,1381,Ryzen 7,7,AMD,0,Amazon (SA)
+106,"ASUS TUF A15 Gaming and Entertainment Laptop (AMD Ryzen 7 4800H 8-Core, 16GB RAM, 1TB PCIe SSD, 15.6"" Full HD (1920x1080), NVIDIA RTX 2060, Wifi, Bluetooth, Webcam, 1xUSB 3.2, Win 10 Pro)",https://www.amazon.sa/TUF506IV-AS76/dp/B089951K88/ref=sr_1_107?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-107,2079,Ryzen 7,7,AMD,0,Amazon (SA)
+107,"جيجابايت [2020] AORUS 15G (WB)، 15.6 انش فل اتش دي 300 هرتز IPS، جيفورس RTX 2070 Max-Q، الجيل 10th Intel i7-10875H، DDR4 16GB NVMe SSD, 300Hz | GeForce RTX 2070 MAX-Q",https://www.amazon.sa/%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA-AORUS-15G-i7-10875H%D8%8C-GeForce/dp/B08D2GPHVZ/ref=sr_1_108?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-108,1657,i7,7,Intel,0,Amazon (SA)
+108,"ASUS TUF A15 Gaming and Entertainment Laptop (AMD Ryzen 7 4800H 8-Core, 32GB RAM, 1TB PCIe SSD, 15.6"" Full HD (1920x1080), NVIDIA GTX 1660 Ti, Wifi, Bluetooth, Webcam, 1xUSB 3.2, 1xHDMI, Win 10 Home)",https://www.amazon.sa/TUF506IU-ES74/dp/B08993WTQZ/ref=sr_1_109?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-109,2597,Ryzen 7,7,AMD,0,Amazon (SA)
+111,"ASUS TUF A15 Gaming and Entertainment Laptop (AMD Ryzen 7 4800H 8-Core, 32GB RAM, 512GB PCIe SSD, 15.6"" Full HD (1920x1080), NVIDIA GTX 1660 Ti, Wifi, Bluetooth, Webcam, 1xUSB 3.2, Win 10 Home)",https://www.amazon.sa/TUF506IU-ES74/dp/B0898Z5TYV/ref=sr_1_112?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-112,2152,Ryzen 7,7,AMD,0,Amazon (SA)
+112,"ASUS TUF A15 Gaming and Entertainment Laptop (AMD Ryzen 7 4800H 8-Core, 16GB RAM, 512GB PCIe SSD, 15.6"" Full HD (1920x1080), NVIDIA GTX 1660 Ti, Wifi, Bluetooth, Webcam, 1xUSB 3.2, 1xHDMI, Win 10 Pro)",https://www.amazon.sa/TUF506IU-ES74/dp/B0898QT95V/ref=sr_1_113?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-113,2077,Ryzen 7,7,AMD,0,Amazon (SA)
+126,لاب توب للألعاب ريزر بليد برو 17 ، انتل كور i7-9750H ، 17.3 انش ، 512 جيجا بي سي اي ان في مي ، 16 جيجا رام، NVIDIA® GeForce RTXTM 2070 Max-Q، ويندوز 10 هوم، كيبورد انجليزي، اسود,https://www.amazon.sa/%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%B1%D9%8A%D8%B2%D8%B1-i7-9750H-NVIDIA%C2%AE-%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%8C/dp/B08435TX1B/ref=sr_1_127?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-127,3540,i7,7,Intel,0,Amazon (SA)
+128,لاب توب اسوس TUF للألعاب، 15.6 بوصة عالي الدقة IPS-من نوع IPS-، انتل كور i7-9750H، جيفورس GTX 1650، ذاكرة رام 8 جيجا، ذاكرة تخزين اس دي 512 جيجا، واي فاي جيجابت 5، ويندوز 10 هوم، TUF505GT-AH73,https://www.amazon.sa/%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8%D8%8C-IPS-%D9%85%D9%86-i7-9750H%D8%8C-%D8%AC%D9%8A%D9%81%D9%88%D8%B1%D8%B3-TUF505GT-AH73/dp/B07VCNTRG6/ref=sr_1_129?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-129,1049,i7,7,Intel,0,Amazon (SA)
+129,لاب توب الالعاب روج ستريكس-G712LV-EV009T (اسود) معالج انتل كور اي 7-10750 اتش 2.6 جيجاهرتز، بطاقة نفيديا جيفورس RTX 2060، 6 جيجا GDDR6، قرص صلب 1 تيرا، 17.3 انش، ويندوز 10، كيبورد عربي-انجليزي,https://www.amazon.sa/%D8%A7%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D8%B3%D8%AA%D8%B1%D9%8A%D9%83%D8%B3-G712LV-EV009T-7-10750-%D8%AC%D9%8A%D8%AC%D8%A7%D9%87%D8%B1%D8%AA%D8%B2%D8%8C-%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A/dp/B08DMNJRST/ref=sr_1_130?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-130,2003, اي 7,7,Intel,0,Amazon (SA)
+130,لاب توب اسس روج ستريكس G512LWS-AZ045T-STRIX G للالعاب (اسود اصلي) - معالج انتل i7-10750H بتردد 2.6 جيجاهرتز، رام 32 جيجابايت، تخزين 1 تيرابايت، بطاقة نفيديا جيفورس ار تي اكس 2070 سوبر، عربي انجليزي,https://www.amazon.sa/%D8%A7%D8%B3%D8%B3-%D8%B3%D8%AA%D8%B1%D9%8A%D9%83%D8%B3-G512LWS-AZ045T-STRIX-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D8%B3%D9%88%D8%AF/dp/B08D2Z7PCX/ref=sr_1_131?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-131,2409,i7,7,Intel,0,Amazon (SA)
+131,"جهاز لاب توب للألعاب ريزر بليد 15 Base 2020: انتل كور i7-10750H 6-Core NVIDIA GeForce GTX 1660 Ti, 15.6 بوصة FHD 1080p 120Hz و16GB و256GB SSD, ألمونيوم CNCNC، إضاءة كروما RGB ، Thunderbolt 3 ، اسود",https://www.amazon.sa/%D8%AC%D9%87%D8%A7%D8%B2-%D9%84%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%B1%D9%8A%D8%B2%D8%B1-%D8%A8%D9%84%D9%8A%D8%AF-Base/dp/B08LZYN1ZF/ref=sr_1_132?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-132,1773,i7,7,Intel,0,Amazon (SA)
+132,ام اس اي GL75 لابتوب للالعاب: كور i7-9750H، ذاكرة رام 16 جيجابايت، شاشة 17.3 انش فل اتش دي، شاشة انفيديا جي تي اكس 1660 تي اي، وسيط تخزين ذو حالة ثابتة بسعة 256 جيجابايت + قرص صلب 1 تيرا,https://www.amazon.sa/GL75-%D9%84%D8%A7%D8%A8%D8%AA%D9%88%D8%A8-%D9%84%D9%84%D8%A7%D9%84%D8%B9%D8%A7%D8%A8-i7-9750H%D8%8C-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%D8%8C/dp/B07YL4CWJ9/ref=sr_1_133?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-133,1423,i7,7,Intel,0,Amazon (SA)
+134,"ASUS VivoBook 17.3"" FHD (1920 x1080) Display Laptop PC, AMD Ryzen 7 3700U Processor, 12GB DDR4, 512GB PCIe SSD, Bluetooth, Webcam, HDMI, WiFi, AMD Radeon RX Vega 10 Graphics, Windows 10 Home",https://www.amazon.sa/Asus-VivoBook-X712DA/dp/B08B3C643L/ref=sr_1_135?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-135,912,Ryzen 7,7,AMD,0,Amazon (SA)
+138,"Acer Predator Helios 300 15.6"" FHD 144Hz 3ms IPS Gaming Laptop, i7-10750H, RGB Backlit Keyboard, Webcam, WiFi 6, USB-C, HDMI, NVIDIA GeForce RTX 2060 6GB, Win 10 (32GB RAM | 1TB PCIe SSD | 2TB HDD)",https://www.amazon.sa/Acer-Predator-Helios/dp/B08GYH9DJZ/ref=sr_1_139?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-139,1865,i7,7,Intel,0,Amazon (SA)
+139,"Lenovo Legion Y540 15.6"" Gaming Laptop 144Hz i7-9750H 16GB RAM 256GB SSD GTX 1660Ti 6GB - 9th Gen i7-9750H Hexa-Core - 144Hz Refresh Rate - NVIDIA GeForce GTX 1660Ti 6GB GDDR6 - Legion Ultimate S",https://www.amazon.sa/Legion-Y540-15IRH/dp/B08739LDJY/ref=sr_1_140?dchild=1&keywords=gaming+laptop&qid=1615467581&sr=8-140,1281,i7,7,Intel,0,Amazon (SA)
+221,"[2021] عدسات عالية التطور ASUS ROG Zephyrus G15 GA503QS 15.6 بوصة QHD 165 هرتز 3 مللي أمبير، 3.0 جيجاهرتز Ryzen 9 5900HS, RTX 3080 Max-Q, 48 جيجابايت 3200 ميجاهرتز SSD 16 تيرا بي سي اي ايه",https://www.amazon.sa/Zephyrus-GA503QS-%D8%AC%D9%8A%D8%AC%D8%A7%D9%87%D8%B1%D8%AA%D8%B2-%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA-%D9%85%D9%8A%D8%AC%D8%A7%D9%87%D8%B1%D8%AA%D8%B2/dp/B08WZFMYJ2/ref=sr_1_222?dchild=1&keywords=gaming+laptop&qid=1615467605&sr=8-222,8364,Ryzen 9,9,AMD,0,Amazon (SA)
+222,"ASUS TUF A15 Gaming and Entertainment Laptop (AMD Ryzen 7 4800H 8-Core, 64GB RAM, 2x1TB PCIe SSD RAID 0 (2TB), 15.6"" Full HD (1920x1080), NVIDIA RTX 2060, Wifi, Bluetooth, Webcam, Win 10 Home)",https://www.amazon.sa/TUF506IV-AS76/dp/B0898ND65J/ref=sr_1_223?dchild=1&keywords=gaming+laptop&qid=1615467605&sr=8-223,2895,Ryzen 7,7,AMD,0,Amazon (SA)
+224,"MSI P65 Creator-1243 Gaming and Business Laptop (Intel i7-9750H 6-Core, 32GB RAM, 512GB PCIe SSD, 15.6"" Full HD (1920x1080), NVIDIA GTX 1660 Ti, Fingerprint, Wifi, Bluetooth, Webcam, Win 10 Pro)",https://www.amazon.sa/P651243/dp/B084CSRQPB/ref=sr_1_225?dchild=1&keywords=gaming+laptop&qid=1615467605&sr=8-225,2746,i7,7,Intel,0,Amazon (SA)
+225,"MSI Prestige 14 A10SC-051 Gaming and Entertainment Laptop (Intel i7-10710U 6-Core, 16GB RAM, 2TB m.2 SATA SSD, 14.0"" Full HD (1920x1080), NVIDIA GTX 1650 [Max-Q], Fingerprint, Wifi, Win 10 Pro)",https://www.amazon.sa/Prestige14051/dp/B0898P6JMK/ref=sr_1_226?dchild=1&keywords=gaming+laptop&qid=1615467605&sr=8-226,2894,i7,7,Intel,0,Amazon (SA)
+226,"MSI Modern 15 A10M-242 Gaming and Entertainment Laptop (Intel i5-10210U 4-Core, 16GB RAM, 2x2TB PCIe SSD RAID 0 (4TB), 15.6"" Full HD (1920x1080), Intel UHD Graphics, Wifi, Bluetooth, Win 10 Pro)",https://www.amazon.sa/Modern15242/dp/B08993YQMM/ref=sr_1_227?dchild=1&keywords=gaming+laptop&qid=1615467605&sr=8-227,3043,i5,5,Intel,0,Amazon (SA)
+259,لاب توب اتش بي 15.6 انش رايزن 5 8 جيجا/256 جيجا- ذهبي وردي,https://www.amazon.sa/15-6-%D8%B1%D8%A7%D9%8A%D8%B2%D9%86-%D8%AC%D9%8A%D8%AC%D8%A7-%D8%AC%D9%8A%D8%AC%D8%A7-%D8%B0%D9%87%D8%A8%D9%8A/dp/B08HCH2QK5/ref=sr_1_260?dchild=1&keywords=gaming+laptop&qid=1615467617&sr=8-260,694,رايزن 5,5,AMD,0,Amazon (SA)
+260,لاب توب اسوس للالعاب روج ستريكس-جي 15 G512LU-HN161T (اسود)- انتل i7-10750h 2.6 جيجاهرتز، رام 16 جيجا، قرص صلب 1 تيرا، نفيديا جيفورس ار تي اكس 1660Ti، عرض 15.6 انش، ويندوز 10، كيبورد عربي-انجليزي,https://www.amazon.sa/%D8%B3%D8%AA%D8%B1%D9%8A%D9%83%D8%B3-%D8%AC%D9%8A-G512LU-HN161T-i7-10750h-%D8%AC%D9%8A%D8%AC%D8%A7%D9%87%D8%B1%D8%AA%D8%B2%D8%8C-%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A/dp/B08CTFL252/ref=sr_1_261?dchild=1&keywords=gaming+laptop&qid=1615467617&sr=8-261,1563,i7,7,Intel,0,Amazon (SA)
+261,"Razer Blade Pro 17 Gaming Laptop 2020: Intel Core i7-10875H 8-Core, NVIDIA GeForce RTX 2080 SUPER Max-Q, 17.3"" FHD 300Hz, 16GB RAM, 512GB SSD, CNC Aluminum, Chroma RGB, Thunderbolt 3, SD Card Reader",https://www.amazon.sa/RZ09-03295E42-R3U1/dp/B087LZZGBD/ref=sr_1_262?dchild=1&keywords=gaming+laptop&qid=1615467617&sr=8-262,3417,i7,7,Intel,0,Amazon (SA)
