@@ -169,36 +169,10 @@ Here you can find my thoughts process with some examples for each dataset.
 
 # Summary of Findings <a name="#summary-of-findings"></a>
 
-### Intel vs AMD CPU
+1. **Slide show** Demonsrating the key insights in a presentation, suitable for meetings. [Slide show](./explanatory.slides.html) 
 
-I found that Intel based CPU were more comman in all 3 countries which does show that Intel seems to have a bigger market share with laptop manufacturers
+2. Analysis Notebook showing the code, thought proceess, Visualizations, Feature extractions and background of the entire project. [Analysis Notebook]('./explanatory.ipynb)
 
-also there seems to be that higher end Intel CPU are on average more expensive then there AMD counterpart, while mid range CPU are actually prety even with Intel having a higher price variation
+3. Exploratory Notebook showing the exploration steps taken and tought process when I was exploring the dataset for the first time. [Exploration Notebook]('./Explonatory.ipynb)
 
-also Intel seems to be sold more in outliers which refrence super expensive High End models.
-
-
-### Intel vs AMD CPU
-
-I found that Intel based CPU were more comman in all 3 countries which does show that Intel seems to have a bigger market share with laptop manufacturers
-
-then i created a Regression model and used it to get a correlation between each variable and the price. there I found that the most correlated variables are 1. which GPU gen was used: RTX, GTX, No gaming GPU 2. was the cpu genration which was more influential than the CPU brand. so choosing Intel or AMD does not influence the price as much as choosing which cpu generation: 5, 7, 9 3. the type of the secondary storage seems to be more immportant than that of the capacity as it is more correlated
-
-then I wanted to test whether there was a diffrence in the average price of the laptops on each store
-
-and there was also it seems the french store is the more expensive and high end store as the laptops sold seem to be as the average price for laptops sold in france is higher than that of egypt and saudi.
-
-then I looked if there are any patterns between price and discount and contrary to comman belif there is no correlation but it seems that **Boulanger** store had both more expensive products with bigger discounts on many of them while **Jumia** seems to be cheaper while still puting discounts on it's products.
-
-After this I looked at which GPU's are paired with which CPU's and it is clear that Intel seems to appeal to both Gamers and non-gamers as it's CPU is paired with RTX sometimes and othertimes paired without any Gaming GPU while AMD seems to strugle with non-gamers as it is almost non existant
-
-then I show which combination of GPU generation and CPU generation is the most favored where the GTX 7th gen CPU are the most presented
-
-then I examine the average price of each GPU and CPU combiantion where I find that non gaming GPU are also very expensive when paired with a 9th gen CPu
-
-### Resources
-
-1. Seaborn Documentation
-2. matplot Lib
-3. Udacity examples in Data Vis Course
-
+4. essay summerizing the key inisghts in case a written formal report is needed for archiving. [Exploration Notebook]('./Summary.ipynb)
