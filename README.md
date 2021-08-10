@@ -174,7 +174,7 @@ Here you can find my thoughts process with some examples for each dataset.
 *Hint: navigate using the arrow keys with down arrow taking you to the visulaization*
 
 
-2. Analysis Notebook showing the code, thought proceess, Visualizations, Feature extractions and background of the entire project. [Analysis Notebook](./explanatory.ipynb)
+2. Analysis Notebook showing the code, thought proceess, Visualizations, Feature extractions and background of the entire project. [Analysis Notebook](./explanatory.md)
 
 3. Exploratory Notebook showing the exploration steps taken and tought process when I was exploring the dataset for the first time. [Exploration Notebook](./Exploratory.md)
 
