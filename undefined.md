@@ -2,12 +2,24 @@
 This project was created to analyse the Gaming Laptops market globaly. by comparing 3 diffrent E-commernce websites with diffrent laguages, currencies, populations, contenets. this project was composed of both gathering, cleaning, visualizing, Hypothesizing and concluding. 
 
 # Index
-1. [Data Source](#data_source) 
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+- [Motive](#motive)
+- [Dataset](#dataset)
+  - [Dataset Source](#dataset-source-scrapped)
+  - [Feature Description](#feature-description)
+  - [Summary of Findings](#summary-of-findings)
+    - [Intel vs AMD CPU](#intel-vs-amd-cpu)
+    - [Key Insights for Presentation](#key-insights-for-presentation)
+    - [Intel vs AMD CPU](#intel-vs-amd-cpu-1)
+    - [Resources](#resources)
 
-## Dataset Source \(Scrapped\)
+# Motive  <a name="motive"></a>
+
+**Gaming Laptops** are a very widespread product sold in all parts of the wrold with a huge price varaition and quality variation. we explore today the realtion between price, the reigion, discount, cpu, gpu, ram.
+
+
+# Dataset <a name="dataset"></a>
+
+## Dataset Source \(Scrapped\) <a name="dataset-source-scrapped"></a>
 
 the Dataset consists of 3 scrapped ecommerce websites that were all scraped on the same day 1/5/2020.
 
@@ -29,13 +41,8 @@ each of these site had a search term "Gaming Laptop" written in the search bar a
 
 _NB:this data was scrapped programmatically from 3 diffrent sites in 3 diffrent contries with a vpn to assure local data is shown._
 
-## DataSet
 
-## Introduction
-
-**Gaming Laptops** are a very widespread product sold in all parts of the wrold with a huge price varaition and quality variation. we explore today the realtion between price, the reigion, discount, cpu, gpu, ram.
-
-## Feature Description
+## Feature Description <a name="feature-description"></a>
 
 ### Laptops.csv
 
@@ -49,7 +56,6 @@ _NB:this data was scrapped programmatically from 3 diffrent sites in 3 diffrent 
 6. **discount\_value:** the percentage of the discount
 7. **store** the store from which this row was scrapped
 
-<a name="data_source"></a>
 ### egypt\_store.csv
 
 > Original dataset that was scraped from Jumia.eg further cleaning and feature extraction was done on this dataset during the cleaning phase 1. **selection1\_url:** url pointing to the link of the product
@@ -88,7 +94,7 @@ _NB:this data was scrapped programmatically from 3 diffrent sites in 3 diffrent 
 3. **selection1\_selection2:** price in SAR
 4. **selection1\_selection2\_url:** link to product
 
-## Summary of Findings
+## Summary of Findings <a name="#summary-of-findings"></a>
 
 ### Intel vs AMD CPU
 
