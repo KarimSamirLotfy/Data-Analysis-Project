@@ -169,9 +169,8 @@ Here you can find my thoughts process with some examples for each dataset.
 
 # Summary of Findings <a name="#summary-of-findings"></a>
 
-1. **Slide show** Demonsrating the key insights in a presentation, suitable for meetings. [Slide show](./explanatory.slides.html) 
-<a href='./explanatory.slides.html' target="_blank">link</a>
-
+1. **Slide show** Demonsrating the key insights in a presentation, suitable for meetings.
+<a href='https://slides.tiiny.site/#/'>link</a>
 
 
 2. Analysis Notebook showing the code, thought proceess, Visualizations, Feature extractions and background of the entire project. [Analysis Notebook]('./explanatory.ipynb)
