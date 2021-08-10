@@ -176,6 +176,6 @@ Here you can find my thoughts process with some examples for each dataset.
 
 2. Analysis Notebook showing the code, thought proceess, Visualizations, Feature extractions and background of the entire project. [Analysis Notebook](./explanatory.ipynb)
 
-3. Exploratory Notebook showing the exploration steps taken and tought process when I was exploring the dataset for the first time. [Exploration Notebook](./Explonatory.ipynb)
+3. Exploratory Notebook showing the exploration steps taken and tought process when I was exploring the dataset for the first time. [Exploration Notebook](./Exploratory.md)
 
-4. essay summerizing the key inisghts in case a written formal report is needed for archiving. [Exploration Notebook](./Summary.ipynb)
+4. essay summerizing the key inisghts in case a written formal report is needed for archiving. [Written Summary](./Summary.ipynb)
