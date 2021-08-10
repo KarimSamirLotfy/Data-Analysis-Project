@@ -1,4 +1,11 @@
-# readme
+# Introduction
+This project was created to analyse the Gaming Laptops market globaly. by comparing 3 diffrent E-commernce websites with diffrent laguages, currencies, populations, contenets. this project was composed of both gathering, cleaning, visualizing, Hypothesizing and concluding. 
+
+# Index
+1. [Data Source](#data_source) 
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
 
 ## Dataset Source \(Scrapped\)
 
@@ -42,6 +49,7 @@ _NB:this data was scrapped programmatically from 3 diffrent sites in 3 diffrent 
 6. **discount\_value:** the percentage of the discount
 7. **store** the store from which this row was scrapped
 
+<a name="data_source"></a>
 ### egypt\_store.csv
 
 > Original dataset that was scraped from Jumia.eg further cleaning and feature extraction was done on this dataset during the cleaning phase 1. **selection1\_url:** url pointing to the link of the product
