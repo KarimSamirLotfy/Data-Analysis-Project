@@ -170,7 +170,7 @@ Here you can find my thoughts process with some examples for each dataset.
 # Summary of Findings <a name="#summary-of-findings"></a>
 
 1. **Slide show** Demonsrating the key insights in a presentation, suitable for meetings. [Slide show](./explanatory.slides.html) 
-<a href='./explanatory.slides.html'>link</a>
+<a href='./explanatory.slides.html' target="_blank">link</a>
 
 
 
