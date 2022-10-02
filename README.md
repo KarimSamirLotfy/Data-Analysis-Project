@@ -170,7 +170,7 @@ Here you can find my thoughts process with some examples for each dataset.
 # Summary of Findings <a name="#summary-of-findings"></a>
 
 1. **Slide show** Demonsrating the key insights in a presentation, suitable for meetings.
-<a href='https://slides.tiiny.site/#/'>Slide Show</a>. 
+<a href='https://emerald-evangeline-95.tiiny.site/#/6'>Slide Show</a>. 
 *Hint: navigate using the arrow keys with down arrow taking you to the visulaization*
 
 
